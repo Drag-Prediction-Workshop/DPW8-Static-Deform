@@ -16,4 +16,4 @@ All solutions were obtained using the OpenMDAO/MPhys framework.
 
 Updated on 05/18/2026:
 - Removed artificial damping in transferred displacements
-- Adjusted staic temeprature to 283.18 K to achieve dynamic pressure to 66266.21 Pa
+- Adjusted static temperature to 283.18 K to achieve dynamic pressure of 66266.21 Pa
